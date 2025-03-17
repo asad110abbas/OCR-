@@ -9,14 +9,8 @@ This project is a powerful Optical Character Recognition (OCR) tool that integra
 ✅ Output Formats – Export extracted text in TXT, JSON, or structured formats.
 ✅ Command Line & API Interface – Run OCR via CLI or integrate it into other applications.
 
-🛠 Installation & Usage
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-ocr-project.git
-cd your-ocr-project
-pip install -r requirements.txt
-python main.py --image example.png --engine paddleocr
+
+
 🏗 OCR Engines
 PaddleOCR – Deep learning-based OCR with high accuracy.
 Tesseract OCR – Open-source OCR engine by Google.
